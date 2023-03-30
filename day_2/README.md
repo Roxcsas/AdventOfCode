@@ -13,10 +13,11 @@ The winner of the whole tournament is the player with the highest score. Your to
 Since you can't be sure if the Elf is trying to help you or trick you, you should calculate the score you would get if you were to follow the strategy guide.
 
 For example, suppose you were given the following strategy guide:
-
+<pre>
 A Y
 B X
 C Z
+</pre>
 
 This strategy guide predicts and recommends the following:
 
