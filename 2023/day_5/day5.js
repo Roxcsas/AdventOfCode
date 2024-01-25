@@ -4,7 +4,7 @@ myInput = myInput.split("\n");
 
 //part1
 
-/*
+
 //set seeds
 let seeds = [];
 let tempImput = myInput[0].split(":");
@@ -55,7 +55,7 @@ for (let seedN = 0; seedN < seeds.length; seedN++) {
 
 console.log(Math.min(...seeds));
 
-*/
+/*
 
 //part2
 
@@ -121,3 +121,5 @@ for (let seedN = 0; seedN < seeds.length; seedN++) {
 }
 
 console.log(Math.min(...seeds));
+
+*/
